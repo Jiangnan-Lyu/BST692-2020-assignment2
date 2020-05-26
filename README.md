@@ -8,6 +8,7 @@ Throughout all the assignments you will see instructions like "Modify the .gitin
 
 ## Tasks
 ### Setup the project
+0. Figure out who you want on your team for the rest of the final project.
 1. Build a private repo on GitHub.  Include a README and an R .gitignore file.
 1. Invite Ray and Layla to be collaborators.
 1. Invite others you want to work with. We suggest no more than 3 people work on a project.
@@ -16,7 +17,7 @@ Throughout all the assignments you will see instructions like "Modify the .gitin
 ### Deal with data
 1. Make a data directory in the local repository.
 1. Modify the .gitignore to include that data directory.
-1. Look on GitHub and confirm that the ,gitignore file was updated.
+1. Look on GitHub and confirm that the .gitignore file was updated.
 
 ### Add the data
 1. Download the data from Blackboard and put it into the data directory.
