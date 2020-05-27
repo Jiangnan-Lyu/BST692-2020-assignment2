@@ -21,6 +21,12 @@ Throughout all the assignments you will see instructions like "Modify the .gitin
 ### Add the data
 1. Download the data from Blackboard and put it into the data directory.
 
+### Tidy the data
+I cleaned up the names of all except the *chemotherapy* and *surgery type*.  
+
+1. Rename chemotherapy and convert it into a factor with human readable levels.
+1. Rename the surgery type variable and convert it into a factor with human readable levels.
+
 ### Describe the data
 1. Download the draft tables.
 1. Identify which variables are missing from the dataset
