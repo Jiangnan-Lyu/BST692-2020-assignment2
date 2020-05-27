@@ -29,11 +29,11 @@ I cleaned up the names of all except the *chemotherapy* and *surgery type*.
 
 ### Describe the data
 1. Download the draft tables.
-1. Identify which variables are missing from the dataset
+1. Identify which variables are missing from the dataset.
 1. Make an R Markdown document called Summary.Rmd.
 1. Add a section that lists the variables that are missing.
 1. Use the [table1](https://cran.r-project.org/web/packages/table1/vignettes/table1-examples.html) package to approximate table 1 and table 2.
     + Make the race/ethnicity variable
-    + Choose one continuous and one categorical variable from the rows of Table 1.
-    + Choose one continuous and one categorical variable from the rows of Table 2.
+    + Choose two variables from the rows of Table 1.
+    + Choose two variables from the rows of Table 2.
 1. Make a pretty plot showing the age at diagnosis by the 3 race groups.
