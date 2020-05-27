@@ -32,5 +32,5 @@ I cleaned up the names of all except the *chemotherapy* and *surgery type*.
 1. Identify which variables are missing from the dataset
 1. Make an R Markdown document called Summary.Rmd.
 1. Add a section that lists the variables that are missing.
-1. Use the table 1 package to approximate table 1 and table 2.
+1. Use the table1 package (https://cran.r-project.org/web/packages/table1/vignettes/table1-examples.html) to approximate table 1 and table 2.
 1. Make a pretty plot showing the age at diagnosis by the 3 race groups.
