@@ -9,9 +9,8 @@ Throughout all the assignments you will see instructions like "Modify the .gitin
 ## Tasks
 ### Setup the project
 0. Figure out who you want on your team for the rest of the final project.
-1. Build a private repo on GitHub.  Include a README and an R .gitignore file.
+1. AS A TEAM...Build a private repo on GitHub.  Include a README and an R .gitignore file. Make sure all team members are collaborators on repo.
 1. Invite Ray and Layla to be collaborators.
-1. Invite others you want to work with. We suggest no more than 3 people work on a project.
 1. Clone the repository to your local machine.
 
 ### Deal with data
@@ -21,12 +20,6 @@ Throughout all the assignments you will see instructions like "Modify the .gitin
 
 ### Add the data
 1. Download the data from Blackboard and put it into the data directory.
-
-### Tidy the data
-I cleaned up the names of all except the *chemotherapy* and *surgery type*.  
-
-1. Rename chemotherapy and convert it into a factor with human readable levels.
-1. Rename the surgery type variable and convert it into a factor with human readable levels.
 
 ### Describe the data
 1. Download the draft tables.
